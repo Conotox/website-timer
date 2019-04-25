@@ -14,7 +14,7 @@ func scheduleThis(x string, y time.Duration) {
 }
 
 func x() {
-	fmt.Println("this is function x")
+	fmt.Println("this is function x. Not sure why it's here tbh, it's not being used.")
 }
 
 func openBrowser(url string) {
